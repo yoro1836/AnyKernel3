@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=KernelSU-Next GKI Kernel by KernelSU-Next Developers
+kernel.string=Yoro Kernel For Galaxy S22x (Qualcomm)
 do.devicecheck=0
 do.modules=0
 do.systemless=0
